@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jan</h1>
 <h3 align="center">A Java developer from Germany</h3>
 
-- 🔭 I’m currently working on [UniversalCommands](https://github.com/Seltrox/UniversalCommands)
+- 🔭 I’m currently working on [DeinPluginNET](https://github.com/DeinPlugin)
 
-- 🌱 I’m currently learning **WebDevelopment**
+- 🌱 I’m currently learning **Go**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Seltrox/](https://github.com/Seltrox/)
 
