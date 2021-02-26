@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jan</h1>
 <h3 align="center">A Java developer from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=seltrox&label=Profile%20views&color=0e75b6&style=flat" alt="seltrox" /> </p>
-
 - 🔭 I’m currently working on [DeinPluginNET](https://github.com/DeinPlugin)
 
 - 🌱 I’m currently learning **Go**
