@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Seltrox/](https://github.com/Seltrox/)
 
-- 📫 How to reach me **ventrexdev@gmail.com**
+- 📫 How to reach me **Jan.#8954**
 
 - ⚡ Fun fact **Stay hydrated!**
 
