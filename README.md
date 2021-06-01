@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [DeinPluginNET](https://github.com/DeinPlugin)
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning [Vue](https://github.com/vuejs/vue)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Seltrox/](https://github.com/Seltrox/)
 
-- 📫 How to reach me **seltroxgaws@gmail.com**
+- 📫 How to reach me **ventrexdev@gmail.com**
 
 - ⚡ Fun fact **Stay hydrated!**
 
