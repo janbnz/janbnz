@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jan</h1>
 <h3 align="center">A Java developer from Germany</h3>
 
-- 🔭 I’m currently working on [DeinPluginNET](https://github.com/DeinPlugin)
+- 🔭 I’m currently working on [myself](https://www.lifehack.org/articles/lifestyle/42-practical-ways-to-improve-yourself.html)
 
 - 🌱 I’m currently learning [Vue](https://github.com/vuejs/vue)
 
