@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/janbnz/](https://github.com/janbnz/)
 
-- 📫 How to reach me **Jan.#8954**
+- 📫 You can reach me on discord **thisisjan_**
 
 - ⚡ Fun fact **Stay hydrated!**
 
