@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jan</h1>
-<h3 align="center">A Java developer from Germany</h3>
+<h3 align="center">Computer science student from Germany</h3>
 
 - 🔭 I’m currently working on [url-shortener](https://github.com/janbnz/url-shortener)
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Svelte**
 
 - 📫 How to reach me on Discord **thisisjan_**
 
